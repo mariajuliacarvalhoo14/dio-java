@@ -1,3 +1,4 @@
+package java.j_developer.sintaxe;
 public class MinhaClasse {
     public static void main(String[] args) {
         String primeiroNome = "Maria julia";
